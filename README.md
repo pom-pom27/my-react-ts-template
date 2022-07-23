@@ -2,5 +2,5 @@
 
 ## What's included
 - React 17.0.2
-- Sass + breakpoint mixin
+- Css Modules + Scss (breakpoint mixin included)
 
